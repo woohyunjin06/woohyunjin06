@@ -1,6 +1,6 @@
 ### Hello 👋  
 
-🌱 I’m currently working for MVL, a mobility company that devlops ride hailing service.
+🌱 I’m currently working for MVL, a mobility company that devlops ride hailing service.  
 📫 Feel free to reaching out to me: woohyunjin06@gmail.com
 
 <!--
