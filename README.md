@@ -1,8 +1,7 @@
 ### Hello 👋  
 
-🔭 I’m currently working on experiencing many open source projects.  
-🌱 I’m currently working in easi6  
-📫 How to reach me: woohyunjin06@gmail.com
+🌱 I’m currently working for MVL, a mobility company that devlops ride hailing service.
+📫 Feel free to reaching out to me: woohyunjin06@gmail.com
 
 <!--
 **woohyunjin06/woohyunjin06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
